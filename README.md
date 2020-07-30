@@ -8,7 +8,8 @@ A new Android project
 
 This project is a starting point for a Android application.</br>
 
-![splash](https://user-images.githubusercontent.com/66123919/88880657-fcdd5d00-d24a-11ea-8432-f3d3a193e69d.gif)
+![49v1k1](https://user-images.githubusercontent.com/66123919/88881013-e4ba0d80-d24b-11ea-8091-8497da04d16f.gif)
+
 
 
 # Database 
