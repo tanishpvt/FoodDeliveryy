@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+    <color name="colorPrimary">#393939</color>
+    <color name="colorPrimaryLight">#7CBFBFBF</color>
+    <color name="colorPrimaryDark">#05090C</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorgray">#6A2E2E2E</color>
+    <color name="online">#4CAF50</color>
+    <color name="offline">#7A7A7A</color>
+
+    <color name="btnSignActive">#4CAF50</color>
+    <color name="overlayBackground">#f33639</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+    <color name="transparent" />
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+  >
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="460dp"
+        app:lottie_fileName="5056-delivery-latest.json"
+        app:lottie_loop="true"
+        android:layout_marginTop="100dp"
+        app:lottie_autoPlay="true"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins"
+        android:textSize="18sp"
+        android:text="Your package is being delivered \nto your location"
+        android:textAlignment="center" />
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="number_button" type="id" />
+    <item name="food_descrption" type="id" />
+    <item name="btnCart" type="id" />
+    <item name="layout_price" type="id" />
+    <item name="food_price" type="id" />
+    <item name="nestedScrollView" type="id" />
+    <item name="app_bar_layout" type="id" />
+    <item name="img_food" type="id" />
+    <item name="collapsing" type="id" />
+</resources>
