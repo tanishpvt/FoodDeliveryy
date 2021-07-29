@@ -2,7 +2,7 @@
 
 A simple Food Delivery App
 
-A new Android project
+A new Android project on food dilevery this was my first app.
 
 ## Getting Started
 
